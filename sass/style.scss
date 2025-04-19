@@ -8,7 +8,7 @@
 }
 
 body {
-	font-family: "Montserrat", sans-serif;
+	font-family: "Jersey 15", sans-serif;
 	background-color: $bg-color;
 	color: #333;
 }
@@ -17,7 +17,7 @@ html {
 	scroll-padding-top: 74px;
 }
 
-.blue-text {
+.green-text {
 	color: $main-color;
 }
 
@@ -30,12 +30,12 @@ html {
 	text-transform: uppercase;
 }
 
-.underline {
-	margin: 0 auto 40px;
-	width: 60px;
-	height: 4px;
-	background-color: $main-color;
-}
+// .underline {
+// 	margin: 0 auto 40px;
+// 	width: 60px;
+// 	height: 4px;
+// 	background-color: $main-color;
+// }
 
 nav {
 	text-transform: uppercase;

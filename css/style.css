@@ -48,7 +48,7 @@
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Jersey 15", sans-serif;
   background-color: #ebecf2;
   color: #333;
 }
@@ -57,8 +57,8 @@ html {
   scroll-padding-top: 74px;
 }
 
-.blue-text {
-  color: #039dff;
+.green-text {
+  color: #32CD32;
 }
 
 .shadow-bg {
@@ -68,13 +68,6 @@ html {
 .section-title {
   text-align: center;
   text-transform: uppercase;
-}
-
-.underline {
-  margin: 0 auto 40px;
-  width: 60px;
-  height: 4px;
-  background-color: #039dff;
 }
 
 nav {
@@ -98,7 +91,7 @@ nav .nav-link:focus,
 nav .nav-link:hover,
 nav .navbar-nav .nav-link.active,
 nav .navbar-nav .show .nav-link {
-  color: #039dff;
+  color: #32CD32;
 }
 
 header.hero-img {
@@ -157,7 +150,7 @@ header.hero-img .fa-chevron-down {
   transition: color 0.3s;
 }
 .aboutus .aboutus-hover:hover {
-  color: #039dff;
+  color: #32CD32;
 }
 
 .aboutus-hero {
@@ -222,7 +215,7 @@ header.hero-img .fa-chevron-down {
   scale: 1.05;
 }
 .prices .price-title {
-  color: #039dff;
+  color: #32CD32;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 20px;
@@ -342,7 +335,7 @@ header.hero-img .fa-chevron-down {
   transition: color 0.3s;
 }
 .contact .contact-us .social-media a:hover {
-  color: #039dff;
+  color: #32CD32;
 }
 
 @media (min-width: 768px) {
